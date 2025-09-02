@@ -1,0 +1,5 @@
+streamlit
+matplotlib
+numpy
+requests
+streamlit-lottie
